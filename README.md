@@ -1,7 +1,7 @@
 # Analisis de ventas y redimiento de las Tiendas
 <img width="1124" height="1124" alt="image" src="https://github.com/user-attachments/assets/eecff87b-787e-492e-a75c-7f6ce219018d" />
 
-  #Descripción
+# Descripción
 -------------------------------
 En este desafio llamdo  Alura Store tuve que ayudar a José, un emprendedor con 4 tiendas, a decidir cuál debería cerrar para poer invertir en un nuevo negocio.
 
@@ -10,6 +10,8 @@ En este desafio llamdo  Alura Store tuve que ayudar a José, un emprendedor con 
  
 ---------------------------------
 ## Objetivos:
+  • Identificar cuál de las tiendas generaba menos ganancais o mostrara menor potencial de crecimiento
+  
   • Aplicar técnicas básicas de ánalisis estadístico para interpretar correctamente la información obtenida
   
   • Elaborar gráficos y visualizaciones que permitan observar las diferencias ente las tiendas de forma clara y comprensible
@@ -30,13 +32,13 @@ En este desafio llamdo  Alura Store tuve que ayudar a José, un emprendedor con 
   
       - Análisis conjunto de las visualizaciones y estadísticas para identificar cuál tienda tiene menor             desempeño
 -------------------------------------------
-## Tecnologías usadas
-# Lenguaje de programación: 
+# Tecnologías usadas
+## Lenguaje de programación: 
 
   <img width="88" height="33" alt="image" src="https://github.com/user-attachments/assets/19fe783b-38bf-41df-8721-a8f112eb0ff8" />
 
 
-# Bibliotecas principales:
+## Bibliotecas principales:
     
    `pandas`
        Para la manipulacion de analisis de datos, como importar archivos, limpiar datos y calcular estadística.
@@ -54,7 +56,7 @@ En este desafio llamdo  Alura Store tuve que ayudar a José, un emprendedor con 
 # Conclusion:
 Este desafío me ayudó a poner en práctica lo que aprendí en el curso de Data Science  de ALURA LATAM  y a entender mejor cómo se pueden usar los datos para tomar decisiones. Gracias a Python, Google Colab y las biblioteca pude organizar la información, hacer gráficos y compar resultados de cada tienda para ayudar a José decidir cuál cerrar.
 
-Durante el trabajo aprendí a que no solo se trata de usar herramientas, sino tambien de entender los datos y saber interpretarlos bien. Me di cuenta que todavía tengo mucho por mejorar y seguir aprendiendo, sobre todo en análisis más avanzados y visualizaciones más completas.
+Durante el trabajo aprendí a que no solo se trata de usar herramientas, sino tambien de entender  a los datos y saber interpretarlos bien. Me di cuenta que todavía tengo mucho por mejorar y seguir aprendiendo, sobre todo en análisis más avanzados y visualizaciones más completas.
   
 
 
